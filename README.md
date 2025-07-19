@@ -6,3 +6,5 @@ This dashboard visualizes supplier performance, delivery delays, and regional ri
 ### ✅ Skills Used: Data Cleaning, DAX, Visual Storytelling, KPIs, Conditional Formatting
 ### 🔧 Tools: Power BI, Python (Faker), Excel
 ### 📊 Insights: Identified risky suppliers and delay-prone regions for proactive decision-making.
+
+
